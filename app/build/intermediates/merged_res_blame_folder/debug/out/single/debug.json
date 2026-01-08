@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "uk.ac.tees.mad.s3548263.app-merged_res-73:/xml_data_extraction_rules.xml.flat",
+        "source": "uk.ac.tees.mad.s3548263.app-main-75:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "uk.ac.tees.mad.s3548263.app-merged_res-73:/xml_backup_rules.xml.flat",
+        "source": "uk.ac.tees.mad.s3548263.app-main-75:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "uk.ac.tees.mad.s3548263.app-merged_res-73:/drawable_ic_water_drop.xml.flat",
+        "source": "uk.ac.tees.mad.s3548263.app-main-75:/drawable/ic_water_drop.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.ac.tees.mad.s3548263.app-mergeDebugResources-71:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/saiganeshreddykolan/AndroidStudioProjects/MyApplication/gradle/caches/9.0-milestone-1/transforms/09a0ed79a859509abb848f4d0bf65d06/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

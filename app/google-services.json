@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601670496769",
+    "project_id": "hydrotrack-plus-c7ac1",
+    "storage_bucket": "hydrotrack-plus-c7ac1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601670496769:android:553766cc8a7a79f83c4600",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.hydrotrackplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfgGgMOE7nzn6bHJdseWjYp73_GRJVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601670496769:android:185c7a8c241f65393c4600",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.s3548263"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfgGgMOE7nzn6bHJdseWjYp73_GRJVTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
